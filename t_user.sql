@@ -1,0 +1,10 @@
+INSERT INTO `t_user` VALUES ('122', '122', '122', 'admin', NULL, NULL, NULL);
+INSERT INTO `t_user` VALUES ('123', '123', '123', 'admin', NULL, NULL, NULL);
+INSERT INTO `t_user` VALUES ('126', '123', '122', 'admin', NULL, NULL, NULL);
+INSERT INTO `t_user` VALUES ('131', '123', '122', 'admin', '湖北', '武汉', '1730863951@qq.com');
+INSERT INTO `t_user` VALUES ('a12345', NULL, '陶佳乐', 'admain', '17', '焦作市', '1730863@qq.com');
+INSERT INTO `t_user` VALUES ('a445', '1234', '陶佳乐', 'admain', '3', '上海市', '1730863951@qq.com');
+INSERT INTO `t_user` VALUES ('admin', '130', '123', '122', '湖北', '武汉', NULL);
+INSERT INTO `t_user` VALUES ('t3425', '1234', '陶佳乐', 'admain', '2', '天津市', '173086@qq.com');
+INSERT INTO `t_user` VALUES ('taojiale', '102311tao', '陶佳乐', 'admain', NULL, NULL, NULL);
+INSERT INTO `t_user` VALUES ('tjl', '123', '陶佳乐', 'admain', NULL, NULL, NULL);
